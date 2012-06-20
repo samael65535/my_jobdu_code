@@ -3,7 +3,7 @@ int main()
 {
   int n;
   while(scanf("%d", &n)!=EOF){
-    float x1=5.0, y1=3.0, z1=0.33333;
+    float x1=5.0, y1=3.0, z1=0.33333; /* 注意0.33333 */
     int x, y, z;
     for(x=0; x<=n/5; x++)
       for(y=0; y<=n/3; y++)
