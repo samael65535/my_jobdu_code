@@ -1,5 +1,6 @@
 #include<stdio.h>
 long long num[1000][1000];
+/* 用递归函数做三角 */
 void tangle(int x, int c)
 {
   int i=0;

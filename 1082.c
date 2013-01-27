@@ -1,7 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-/* 注意访问顺序也已经给了,可以重复 */
+/* 注意访问顺序也已经给了,可以重复 
+   本题未AC
+*/
 struct IP
 { 
     char ip[17];
